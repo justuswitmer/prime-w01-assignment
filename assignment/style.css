@@ -1,11 +1,63 @@
-/* Give your page a fun background color */
+.body {
+	padding-left: 135px;
+  padding-right: 135px;
+  padding-top: 30px;
+  padding-bottom: 40px;
+  margin-bottom: -20px;
+	background-image: url("/Users/jman/Prime/Tier 1/prime-w01-assignment/images/Old Paper.jpg");
+	background-size: cover;
+	text-align: center;
+}
 
-/* Make the header and footer a different color from the background */
+.image {
+  width: 100px;
+  border: solid black;
+}
 
-/* Align the h1 containing your name in the center of the header*/
+h1 {
+	font-size: 50px;
+	font-family: 'Garamond';
+	margin-bottom: -25px;
+  text-align: center;
+}
 
-/* Make your p tag a different color and italic */
+p {
+	font-size: 16px;
+	font-family: 'Garamond';
+  color: #006400;
+}
 
-/* Put a border around your image */
+.list {
+	font-size: 18px;
+	font-family: 'Bookman Old Style';
+	padding-top: 5px;
+  padding-right: 50px;
+  text-align: center;
+}
 
-/* Change the font-family of your list */
+.header {
+  width: 100%;
+  background-image: url("/Users/jman/Prime/Tier 1/prime-w01-assignment/images/Textured Grey.png");
+  background-size: 30%;
+  padding-top: 1px;
+  padding-bottom: 40px;
+  text-align: center;
+}
+.footer {
+	width: 100%;
+  background-image: url("/Users/jman/Prime/Tier 1/prime-w01-assignment/images/Textured Grey.png");
+  background-size: 30%;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  text-align: center;
+}
+
+/* Make the header and footer a different color from the background  DONE*/
+
+/* Align the h1 containing your name in the center of the header DONE*/
+
+/* Make your p tag a different color and italic DONE*/
+
+/* Put a border around your image DONE*/
+
+/* Change the font-family of your list DONE*/
